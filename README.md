@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Jaskiran Singh, passionate about exploring the frontier of AI agent development—from foundational concepts to production-ready systems. My repositories are a collection of experiments, reference implementations, and learning resources as I build expertise across the AI ecosystem.
+I'm Jaskiran Singh, passionate about exploring the frontier of AI agent development - from foundational concepts to production-ready systems. My repositories are a collection of experiments, reference implementations, and learning resources as I build expertise across the AI ecosystem.
 
 
 What I'm building:
