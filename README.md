@@ -11,4 +11,4 @@ What I'm building:
 - RAG Systems -> from simple vector search to agentic RAG pipelines, hybrid retrieval, and local knowledge bases
 - Interactive Applications -> connecting agents to real data: GitHub, Gmail, PDFs, video transcripts, research papers
 - Model Fine-tuning -> hands-on experiments with open-source models
-- SDK Deep Dives -> comprehensive walkthroughs of Agent Development Kit and OpenAI's SDK
+- SDK Deep Dives -> comprehensive walkthroughs of Agent Development Kit and OpenAI's SDK 
